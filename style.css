@@ -1,0 +1,11 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+}
+
+main {
+  position: absolute;
+  font-size: 60px;
+}
